@@ -1,21 +1,21 @@
-﻿b_id,Name of books,Author
-b_1,Best Python Books for Beginners,Dwayne Johnson
-b_2,Best Python Book for Beginners: Python Crash Course,Eric Matthews
-b_3,"Automate the Boring Stuff with Python, 2nd Edition: Practical Programming for Total Beginners",Al Sweigart
-b_4,Best Book for Job Interview Prep: Elements of Programming Interviews in Python: The Insiders' Guide ,Adnan Aziz
-b_5,Learn Python in One Day and Learn It Well (2nd Edition),Jamie Chan
-b_6,Python for Beginners: Learn Python Programming With No Coding Experience in 7 Days,Santos Ozoemena
-b_7,Learning with Python: How to Think Like a Computer Scientist,Allen Downey
-b_8,Best Free Python Book: A Byte of Python,C.H. Swaroop
-b_9,Best Python Programming Books for Advanced Programmers,Tony Stark
-b_10,Introduction to Machine Learning with Python: A Guide for Data Scientists,"Sarah Guido, Andreas C. Muller"
-b_11,"Best Advanced Python Book: Fluent Python: Clear, Concise, and Effective Programming",Luciano Ramalho
-b_12,Python Cookbook: Recipes for Mastering Python 3,"David Beazley, Brian K. Jones"
-b_13,Programming Python: Powerful Object-Oriented Programming,Mark Lutz
-b_14,Best Book for Practical Learning: Learn Python the Hard Way (3rd Edition),Zed A. Shaw
-b_15,Best Python Books for Kids,Mark Ruffalo
-b_16,Best Python Book for Children: Python for Kids,Jason R. Briggs
-b_17,Coding Projects in Python,DK
-b_18,Python in Easy Steps,Mike McGrath
-b_19,Coding For Kids: Python: Learn to Code with 50 Awesome Games and Activities,Adrienne Tacke
-b_20,"Creative Coding in Python: 30+ Programming Projects in Art, Games, and More",Sheena Vaidyanathan
+﻿b_id,Name of books,Author,Image-URL
+,,,
+b_1,Python Crash Course,Eric Matthews,"https://m.media-amazon.com/images/I/514cSQ0O9OL._SX258_BO1,204,203,200_.jpg"
+b_2,"Automate the Boring Stuff with Python, 2nd Edition: Practical Programming for Total Beginners",Al Sweigart,https://m.media-amazon.com/images/I/51B161E04DL._SX260_.jpg
+b_3,Elements of Programming Interviews in Python: The Insiders' Guide ,Adnan Aziz,"https://m.media-amazon.com/images/I/41CUbGSthHL._SY344_BO1,204,203,200_.jpg"
+b_4,Learn Python in One Day and Learn It Well (2nd Edition),Jamie Chan,https://m.media-amazon.com/images/I/51Rb35UTXZL.jpg
+b_5,Python for Beginners: Learn Python Programming With No Coding Experience in 7 Days,Santos Ozoemena,https://m.media-amazon.com/images/I/51g94uhmWtL.jpg
+b_6,Learning with Python: How to Think Like a Computer Scientist,Allen Downey,https://m.media-amazon.com/images/I/71ND9kxGLGL._AC_UY327_FMwebp_QL65_.jpg
+b_7,Best Free Python Book: A Byte of Python,C.H. Swaroop,https://m.media-amazon.com/images/I/41JeFdBQlDL._AC_UY327_FMwebp_QL65_.jpg
+b_8,Best Python Programming Books for Advanced Programmers,Tony Stark,https://m.media-amazon.com/images/I/41JeFdBQlDL._AC_UY327_FMwebp_QL65_.jpg
+b_9,Introduction to Machine Learning with Python: A Guide for Data Scientists,"Sarah Guido, Andreas C. Muller",https://m.media-amazon.com/images/I/71vVxA5gH-L._AC_UY327_FMwebp_QL65_.jpg
+b_10,"Best Advanced Python Book: Fluent Python: Clear, Concise, and Effective Programming",Luciano Ramalho,https://m.media-amazon.com/images/I/71RiBEY6mWL._AC_UY327_FMwebp_QL65_.jpg
+b_11,Python Cookbook: Recipes for Mastering Python 3,"David Beazley, Brian K. Jones",https://m.media-amazon.com/images/I/71L-WzJlrbL._AC_UY327_FMwebp_QL65_.jpg
+b_12,Programming Python: Powerful Object-Oriented Programming,Mark Lutz,https://m.media-amazon.com/images/I/71IOEdgoCmL._AC_UY327_FMwebp_QL65_.jpg
+b_13,Best Book for Practical Learning: Learn Python the Hard Way (3rd Edition),Zed A. Shaw,https://m.media-amazon.com/images/I/81UU5A2VLsL._AC_UY327_FMwebp_QL65_.jpg
+b_14,Best Python Books for Kids,Mark Ruffalo,
+b_15,Best Python Book for Children: Python for Kids,Jason R. Briggs,https://m.media-amazon.com/images/I/61nKA224MgL._AC_UY327_FMwebp_QL65_.jpg
+b_16,Coding Projects in Python,DK,
+b_17,Python in Easy Steps,Mike McGrath,https://m.media-amazon.com/images/I/81IoRrG1eDL._AC_UY327_FMwebp_QL65_.jpg
+b_18,Coding For Kids: Python: Learn to Code with 50 Awesome Games and Activities,Adrienne Tacke,https://m.media-amazon.com/images/I/81P-wnAPfZL._AC_UY327_FMwebp_QL65_.jpg
+b_19,"Creative Coding in Python: 30+ Programming Projects in Art, Games, and More",Sheena Vaidyanathan,https://m.media-amazon.com/images/I/51EJ5ZEbYWL._AC_UY327_FMwebp_QL65_.jpg
